@@ -1,1 +1,9 @@
 C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
