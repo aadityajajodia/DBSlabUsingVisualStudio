@@ -208,5 +208,10 @@ namespace WindowsFormsApplication1
             resultTextBox.Text= "log";
             myOperator = 'l';
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -7,3 +7,6 @@ C:\Users\Aditi\Desktop\Calculator\WindowsFormsApplication1\bin\Debug\WindowsForm
 C:\Users\Aditi\Desktop\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\Aditi\Desktop\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Aditi\Desktop\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
