@@ -1,0 +1,12 @@
+E:\150953194_Shubham\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe.config
+E:\150953194_Shubham\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe
+E:\150953194_Shubham\NotePadApp\NotePadApp\bin\Debug\NotePadApp.pdb
+E:\150953194_Shubham\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csprojResolveAssemblyReference.cache
+E:\150953194_Shubham\NotePadApp\NotePadApp\obj\Debug\NotePadApp.Form1.resources
+E:\150953194_Shubham\NotePadApp\NotePadApp\obj\Debug\NotePadApp.Properties.Resources.resources
+E:\150953194_Shubham\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csproj.GenerateResource.Cache
+E:\150953194_Shubham\NotePadApp\NotePadApp\obj\Debug\NotePadApp.exe
+E:\150953194_Shubham\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb
+C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe.config
+C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\NotePadApp\NotePadApp\obj\Debug\NotePadApp.exe
+C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb
