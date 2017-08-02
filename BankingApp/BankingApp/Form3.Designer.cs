@@ -40,9 +40,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 73);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(139, 13);
+            this.label1.Size = new System.Drawing.Size(90, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Beneficiary account number";
+            this.label1.Text = "Beneficiary Name";
             // 
             // textBox1
             // 

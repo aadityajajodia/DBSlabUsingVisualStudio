@@ -10,3 +10,12 @@ E:\150953194_Shubham\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb
 C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe.config
 C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\NotePadApp\NotePadApp\obj\Debug\NotePadApp.exe
 C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe.config
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\obj\Debug\NotePadApp.exe
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\obj\Debug\NotePadApp.pdb
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\bin\Debug\NotePadApp.exe
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\bin\Debug\NotePadApp.pdb
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csprojResolveAssemblyReference.cache
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\obj\Debug\NotePadApp.Form1.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\obj\Debug\NotePadApp.Properties.Resources.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\NotePadApp\NotePadApp\obj\Debug\NotePadApp.csproj.GenerateResource.Cache

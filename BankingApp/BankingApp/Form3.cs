@@ -28,14 +28,18 @@ namespace BankingApp
             {
                 MessageBox.Show("Enter amount");
             }
+            else if (double.Parse(textBox2.Text) > Form1.balance)
+            {
+                MessageBox.Show("Insufficient fund");
+            }
             else
             {
                 Form1.balance -= double.Parse(textBox2.Text);
                 Form1.trans[0, 0] = textBox1.Text;
                 Form1.trans[0, 1] = textBox2.Text;
-                MessageBox.Show("Amount transferred is "+textBox2.Text+"\n Your new balance is "+Form1.balance);
+                MessageBox.Show("Amount transferred is " + textBox2.Text + "\n Your new balance is " + Form1.balance);
 
-                
+
             }
 
         }

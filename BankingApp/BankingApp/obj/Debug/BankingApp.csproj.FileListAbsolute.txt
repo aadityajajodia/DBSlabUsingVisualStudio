@@ -8,3 +8,14 @@ C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudi
 C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
 C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\BankingApp\BankingApp\obj\Debug\BankingApp.Form2.resources
 C:\Users\student\Downloads\DBSlabUsingVisualStudio-master\DBSlabUsingVisualStudio-master\BankingApp\BankingApp\obj\Debug\BankingApp.Form3.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.csprojResolveAssemblyReference.cache
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.Form1.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.Form2.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.Form3.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\Aditi\Desktop\DBSlabUsingVisualStudio\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache

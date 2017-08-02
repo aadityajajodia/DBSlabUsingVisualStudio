@@ -26,7 +26,7 @@ namespace BankingApp
         {
             Form3 frm3 = new Form3();
             if(frm3.ShowDialog()==DialogResult.Cancel)
-                label1.Text = "Hello " + Form1.username + "your balance is" + Form1.balance +
+                label1.Text = "Hello " + Form1.username + " your balance is" + Form1.balance +
                 "\n\nYour last five transactions" +
                 "\n1." + Form1.trans[0, 0] + "\t" + Form1.trans[0, 1] +
                 "\n2." + Form1.trans[1, 0] + "\t" + Form1.trans[1, 1] +
@@ -48,6 +48,11 @@ namespace BankingApp
                 Form1.password = textBox1.Text;
                 MessageBox.Show("password changed Successfully");
             }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         

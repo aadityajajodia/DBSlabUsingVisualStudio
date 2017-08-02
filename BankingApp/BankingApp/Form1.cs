@@ -39,7 +39,7 @@ namespace BankingApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text==username&&textBox2.Text==password)
+            if (textBox2.Text==username&&textBox1.Text==password)
             {
                 lastAccess = DateTime.Now.ToString();
                 MessageBox.Show("Hello");
